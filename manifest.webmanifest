@@ -1,0 +1,17 @@
+{
+  "name": "一级造价工程师·全科考场",
+  "short_name": "造价考场",
+  "description": "一级造价工程师全科考试工作台：造价管理 / 建设工程计价 / 技术与计量(安装) / 造价案例分析(安装)。离线可用，添加到主屏幕即 App。",
+  "lang": "zh-CN",
+  "start_url": "/zaojiakao-kaochang/index.html",
+  "scope": "/zaojiakao-kaochang/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff5f8",
+  "theme_color": "#ff5b9e",
+  "icons": [
+    {"src": "/zaojiakao-kaochang/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/zaojiakao-kaochang/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/zaojiakao-kaochang/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
